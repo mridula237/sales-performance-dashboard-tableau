@@ -8,6 +8,10 @@ The dashboard highlights key business metrics, sales trends over time, and geogr
 🔗 View on Tableau Public:  
 https://public.tableau.com/app/profile/mridula.kalaiselvan/viz/Book3_17706783120970/SuperstoreSalesPerformanceDashboard
 
+## Dashboard Preview
+
+![Superstore Sales Dashboard](screenshots/dashboard-overview.png)
+
 ## Key Metrics
 - Total Sales: $2.3M+
 - Total Profit: $292K+
